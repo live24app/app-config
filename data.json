@@ -3,14 +3,14 @@
    "effective": true,
    "version": "0.0.7",
    "minNativeVersion": "0.0.6",
-   "url": "live24007ios",
+   "url": "https://amirs.eu/live24007ios.jsbundle",
    "force": true
  },
   "android": {
    "effective": true,
    "version": "0.0.7",
    "minNativeVersion": "0.0.6",
-   "url": "live24007android",
+   "url": "https://amirs.eu/live24007android.jsbundle",
    "force": true
  }
 }
