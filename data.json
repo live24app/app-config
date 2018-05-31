@@ -1,6 +1,17 @@
 {
-"version": "0.0.6",
-"minNativeVersion": "0.0.0",
-"url": "http://amirs.eu/main1.0.2.jsbundle",
-"force": true
+ "ios": {
+   "effective": true,
+   "version": "0.0.7",
+   "minNativeVersion": "0.0.6",
+   "url": "live24007ios",
+   "force": true
+ },
+  "android": {
+   "effective": true,
+   "version": "0.0.7",
+   "minNativeVersion": "0.0.6",
+   "url": "live24007android",
+   "force": true
+ }
 }
+ 
