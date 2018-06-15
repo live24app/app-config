@@ -8,9 +8,9 @@
   },
   "android": {
     "effective": true,
-    "version": "0.0.9",
+    "version": "0.1.1",
     "minNativeVersion": "0.0.6",
-    "url": "https://live24app.com/bundles/0.0.9/android.jsbundle",
+    "url": "https://live24app.com/bundles/0.1.1/ios.jsbundle",
     "force": true
   }
 }
