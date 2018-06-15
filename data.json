@@ -1,9 +1,9 @@
 {
   "ios": {
     "effective": true,
-    "version": "0.1.1",
+    "version": "0.0.9",
     "minNativeVersion": "0.0.6",
-    "url": "https://live24app.com/bundles/0.1.1/ios.jsbundle",
+    "url": "https://live24app.com/bundles/0.0.9/ios.jsbundle",
     "force": true
   },
   "android": {
